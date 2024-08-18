@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ullengula-vivek/my_portfolio.git/static/css/main.57152538.css",
+    "main.js": "/ullengula-vivek/my_portfolio.git/static/js/main.84fac930.js",
+    "index.html": "/ullengula-vivek/my_portfolio.git/index.html",
+    "main.57152538.css.map": "/ullengula-vivek/my_portfolio.git/static/css/main.57152538.css.map",
+    "main.84fac930.js.map": "/ullengula-vivek/my_portfolio.git/static/js/main.84fac930.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.57152538.css",
+    "static/js/main.84fac930.js"
+  ]
+}
