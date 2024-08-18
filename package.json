@@ -17,7 +17,7 @@
     "redux-thunk": "^3.1.0",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "http://ullengula-vivek.github.io/my_portfolio",
+  "homepage": "http://ullengula-vivek.github.io/client",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
